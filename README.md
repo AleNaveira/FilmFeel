@@ -58,9 +58,9 @@
 
 *Features still under development*: 
 
-	 Authentication and Authorization with Spring Security and JWT: Role configuration (USER and ADMIN) via Spring Security and JWT tokens for secure, stateless authentication. Users with the ADMIN role will have advanced permissions such as creating and managing profiles of other ADMIN role users.
-	Advanced Logging: Incorporation of a detailed logging system at the service level, focused on precise monitoring and error auditing to improve traceability and diagnosis in production environments.
-	Spring Batch: Implementation of Spring Batch to manage bulk data loading and efficient processing, optimizing the API's capacity to handle large volumes of information.
+- Authentication and Authorization with Spring Security and JWT: Role configuration (USER and ADMIN) via Spring Security and JWT tokens for secure, stateless authentication. Users with the ADMIN role will have advanced permissions such as creating and managing profiles of other ADMIN role users.
+- Advanced Logging: Incorporation of a detailed logging system at the service level, focused on precise monitoring and error auditing to improve traceability and diagnosis in production environments.
+- Spring Batch: Implementation of Spring Batch to manage bulk data loading and efficient processing, optimizing the API's capacity to handle large volumes of information.
 
 
 ## 3. Technologies and dependencies
@@ -417,11 +417,11 @@ _______________________________________________
 - **Documentación interactiva con Swagger**: La API está documentada con Swagger. Ofrece una interfaz interactiva donde se puede probar los endpoint y visualizar el esquema de datos en tiempo real.
 - **Registro y manejo de errores**: Incluye un sistema de logs detallado que facilita la trazabilidad y resolución de problemas durante el desarrollo y en entornos de producción.
 
-*Algunas de las caracteristicas aún por implementar*
+*Algunas de las caracteristicas aún por implementar*:
 
-	 Autenticación y Autorización con Spring Security y JWT: Configuración de roles (USER y ADMIN) mediante Spring Security y tokens JWT para la autenticación segura y sin estado. Los usuarios con rol ADMIN tendrán permisos avanzados como la creación y gestión de perfiles de otros usuarios con rol ADMIN.
-	Logger Avanzado:  Incorporación de un sistema de logs detallados a nivel de servicio, enfocado en el monitoreo preciso y la auditoría de errores para mejorar la trazabilidad y el diagnóstico en entornos de producción.
-	Spring Batch: Implementación de Spring Batch para gestionar la carga masiva de datos y su procesamiento eficiente, optimizando la capacidad de la API para manejar grandes volúmenes de información.
+- Autenticación y Autorización con Spring Security y JWT: Configuración de roles (USER y ADMIN) mediante Spring Security y tokens JWT para la autenticación segura y sin estado. Los usuarios con rol ADMIN tendrán permisos avanzados como la creación y gestión de perfiles de otros usuarios con rol ADMIN.
+- Logger Avanzado:  Incorporación de un sistema de logs detallados a nivel de servicio, enfocado en el monitoreo preciso y la auditoría de errores para mejorar la trazabilidad y el diagnóstico en entornos de producción.
+- Spring Batch: Implementación de Spring Batch para gestionar la carga masiva de datos y su procesamiento eficiente, optimizando la capacidad de la API para manejar grandes volúmenes de información.
 
 
 ## 3. Tecnologías y dependencias
