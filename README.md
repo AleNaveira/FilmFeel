@@ -440,9 +440,9 @@ _______________________________________________
 - **Lombok**
 - **Maven**
 
-## Opciones de bases de datos
+***Opciones de bases de datos***
 
-- ** H2 Database**
+- **H2 Database**
 
 El proyecto utiliza H2 como base de datos local en modo de desarrollo. No requiere configuración adicional para esta opción.
 
