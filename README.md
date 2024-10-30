@@ -437,10 +437,18 @@ _______________________________________________
 - **Java 17**
 - **Spring Boot 3.3.4**
 - **Swagger con OpenAPI **
-- **H2 Database**
--  **MySQL Database**
 - **Lombok**
 - **Maven**
+
+## Opciones de bases de datos
+
+- ** H2 Database**
+
+El proyecto utiliza H2 como base de datos local en modo de desarrollo. No requiere configuración adicional para esta opción.
+
+- **MySQL Database** (branch alternativa)
+
+Para un entorno de producción o para quienes prefieren MySQL, ofrecemos una configuración alternativa en la rama `mysql-integration`. Puedes encontrar los requisitos y la configuración detallada en el archivo `README.md` de la [branch `mysql-integration`](https://github.com/AleNaveira/FilmFeel/tree/mysql-integration) .
 
 ## 4. Documentación
 
