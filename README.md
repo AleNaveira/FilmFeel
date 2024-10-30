@@ -16,11 +16,6 @@ If you prefer to use a local database instead of MySQL, you can check the main b
 ## **VERSION ESPAÑOL**
 
 
-***Base de datos H2***
-
-Si prefieres utilizar una base de datos local en lugar de MySQL, puedes consultar la rama principal (main) del proyecto, donde se integra H2 para un entorno de desarrollo más sencillo. Encuentra la configuración de H2 en la rama principal aquí: [FilmFeel - Branch Main](https://github.com/AleNaveira/FilmFeel).
-
-
 
 ## Requisitos para utilizar MySQL
 
