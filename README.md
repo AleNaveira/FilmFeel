@@ -526,7 +526,7 @@ Para crear una nueva película en la API desde Postman, realiza una solicitud PO
 **b) Instrucciones para configurar la solicitud en Postman**
 
 1. Selecciona el método **POST**.
-2. Introduce la URL del **endpoint**: *http://localhost:8060/api/peliculas/crear*
+2. Introduce la URL del **endpoint**: *http://localhost:8080/api/peliculas/crear*
 3. Navega a la pestaña **Body** y selecciona** form-data**.
 4. Añade los siguientes campos en **form-data**
 
