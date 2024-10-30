@@ -141,7 +141,7 @@ To create a new film via Postman, make a POST request to /api/movies/create. Thi
 
 **a) Endpoint**
 
-- URL: *http://localhost:8060/api/peliculas/crear*
+- URL: *http://localhost:8080/api/peliculas/crear*
 - Method: POST
 - Content Type: multipart/form-data
 
@@ -399,7 +399,7 @@ _______________________________________________
 
 # FilmFeel API (en desarrollo)
 
-> **Nota**: *Esta API REST está actualmente en una fase de desarrollo, por lo que algunas funcionalidades pueden estar en proceso de ajuste o expansión, y es posible que, de forma ocasional, se presenten errores. Se están realizando mejoras de forma continua para aumentar la estabilidad y añadir nuevas características.
+> **Nota**: *Esta API REST está actualmente en una fase de desarrollo, por lo que algunas funcionalidades pueden estar en proceso de ajuste y es posible que, de forma ocasional, se presenten errores. Se están realizando mejoras de forma continua para aumentar la estabilidad y añadir nuevas características.
 
 
 
@@ -503,7 +503,7 @@ Para crear una nueva película en la API desde Postman, realiza una solicitud PO
 
 **a) Endpoint**
 
-- URL: *http://localhost:8060/api/peliculas/crear*
+- URL: *http://localhost:8080/api/peliculas/crear*
 - Método: POST
 - Tipo de Contenido: multipart/form-data
 
@@ -751,7 +751,4 @@ c) **Ejecuta la Aplicación**
 Una vez importado, busca la clase principal (*FilmFeelApiApplication.java*) y ejecútala como una aplicación Spring Boot. La API estará disponible en http://localhost:8080
 
 
-## **8. Consideraciones adicionales**
-
-*Esta API REST está actualmente en una fase temprana de desarrollo, por lo que algunas funcionalidades pueden estar en proceso de ajuste o expansión, y es posible que ocasionalmente se presenten errores. Se están realizando mejoras de forma continua para aumentar la estabilidad y añadir nuevas características.*
 
