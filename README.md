@@ -5,7 +5,7 @@
 3. **Create a Database**: You can create the database manually in Worbench or by using the following command in MySQL:
 
 ```sql
- CREATE DATABASE filmfeel_db;
+ CREATE DATABASE filmfeel_api;
 ```
 
 If you prefer to use a local database instead of MySQL, you can check the main branch of the project, where H2 is integrated for a simpler development environment. Find the H2 configuration in the main branch here: [FilmFeel - Branch Main](https://github.com/AleNaveira/FilmFeel).
@@ -24,7 +24,7 @@ If you prefer to use a local database instead of MySQL, you can check the main b
 3. **Crear una base de datos**: Puedes crear la base de datos manualmente en Workbench o usando el siguiente comando en MySQL:
 
 ```sql
- CREATE DATABASE filmfeel_db;
+ CREATE DATABASE filmfeel_api;
 ```
 
 
