@@ -13,7 +13,7 @@ If you prefer to use a local database instead of MySQL, you can check the main b
 
 ---------------------------------------------------------
 
-**VERSION ESPAÑOL**
+## **VERSION ESPAÑOL**
 
 
 ***Base de datos H2***
